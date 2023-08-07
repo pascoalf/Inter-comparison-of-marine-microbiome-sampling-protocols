@@ -4,4 +4,4 @@ This is a repository for public consultation of the R code used for the original
 
 Contact: up202010522@g.uporto.pt
 
-**The article is under peer-review for publication in ISME communications.**
+**The article was accepted for publication in ISME communications.**
